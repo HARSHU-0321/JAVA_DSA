@@ -1,0 +1,13 @@
+/.vscode
+
+# ignore bin
+/bin
+
+# to ignore .class
+/*.class
+
+# to ignore class files in folders
+/**/*.class 
+
+#ignore lib
+/lib
