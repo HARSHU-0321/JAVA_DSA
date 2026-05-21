@@ -37,12 +37,12 @@ public class MinMax {
 /* 
 sum>>>>>>>>>>
 minmax>>>>>>>>>
-4.reverse an array
-5,even and odd elements od an array
+4.reverse an array>>>>>>
+5,even and odd elements od an array>>>>>>>>>>
 palindrome or nor
 search element in array using linear and binary search
 to move all 0s at the end
-prog to left by 1
-                k values
+prog to left by 1>>>>>>>>
+                k values>>>>>>>>>>>>>>>>>
 check the array is sorted or not
 */
